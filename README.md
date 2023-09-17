@@ -16,6 +16,5 @@ Python with the time library was used
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Stack Overflow](https://stackoverflow.com/)
 * [w3schools](https://www.w3schools.com/)
